@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Junetaurus
+- 👋 Hi, I’m @June
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning iOS Flutter
 
 <!---
 Junetaurus/Junetaurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
